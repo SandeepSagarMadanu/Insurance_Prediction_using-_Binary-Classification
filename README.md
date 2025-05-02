@@ -93,9 +93,3 @@ insurance-prediction/
 
 Thanks to open-source data providers and contributors to the Python ecosystem.
 
----
-
-## 📧 Contact
-
-For any queries or suggestions, reach out via GitHub Issues or email.
-
